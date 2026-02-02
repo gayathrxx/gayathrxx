@@ -9,7 +9,7 @@
 
 
 <!-- Intro Text -->
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color:565656; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
   I enjoy building smart and user-focused applications that combine AI with modern web technologies. My work includes developing interactive frontends, creating full stack applications, and exploring machine learning to solve real-world problems. I’m continuously learning and experimenting with new tools to build scalable, efficient, and impactful digital experiences.
 </div>
 
@@ -30,7 +30,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,mysql,vscode,github&theme=dark" />
 </a>
-  <br /> -->
+  <br /> 
 
   <!-- Socials/Connect -->
   <h3 style="color: #ffffff;">Let's Connect</h3>
